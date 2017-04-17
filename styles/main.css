@@ -167,3 +167,33 @@ button {
 	font-size: 24px;
 	background-color: rgba(0, 0, 0, 0.1);
 }
+
+#footer-bottom {
+	/*background-color: #161616;*/
+	text-align: center;
+}
+
+#touth-title {
+	padding-top: 71px;
+	font-size: 42px;
+	color: #FFFFFF;
+}
+
+#touth-detail {
+	margin-top: 10px;
+	font-size: 24px;
+	color: #434343;
+}
+#touth-icons {
+	margin-top: 10px;
+}
+
+#footer-bottom > .horizontal-split {
+	background-color: #202020;
+}
+
+#design {
+	padding: 50px 0;
+	color: #474747;
+	margin: auto;
+}
